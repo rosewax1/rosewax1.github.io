@@ -6,7 +6,7 @@
 
 var things = ["Washington", "Lincoln", "Jefferson", "Jackson", "Roosevelt", "Hoover"];
 var programmers = ["idiots", "imbeciles", "knuckleheads", "heathens", "nimrods", "numbnut"]
-var castles = ["museums", "bridges", "cities"]
+var castles = ["rivers", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
