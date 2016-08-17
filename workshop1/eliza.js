@@ -44,7 +44,7 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "Please don't cry",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
@@ -94,7 +94,7 @@ var rules = {
   ],
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
-    "Tell me more about your family",
+    "Tell me more about your family pLEASE",
   ],
   "~*x my father ~*y": [
     "Your father?",
